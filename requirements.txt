@@ -1,4 +1,0 @@
-anthropic
-requests
-apscheduler
-websocket-client
