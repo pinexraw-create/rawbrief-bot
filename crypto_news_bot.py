@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-“””
+
 Raw Brief Bot v3
 
 - RSI, EMA 20/50, Volume confirmation for precise signals
