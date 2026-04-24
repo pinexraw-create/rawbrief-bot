@@ -8,7 +8,6 @@ Raw Brief Bot v3
 - Signal format: one line per asset
 - R/R rounded to integer
 - ATR + S/R + RSI + EMA for TP/SL
-  “””
   import os
   import sys
   import time
